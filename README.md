@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bar0x
+- 👋 Hi, I’m @bar0x (Bar0xx on instagram)
 - 👀 I’m interested in: fat girls
-- 🌱 I’m currently learning html and c
+- 🌱 I’m currently learning: html and c
 - 💞️ I’m looking to collaborate? no
 - 📫 How to reach me: baronz69420@gmail.com
 

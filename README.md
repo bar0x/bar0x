@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate? no bc i'll always be alone
 - 📫 How to reach me: baronz69420@gmail.com
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.gfycat.com%2FColorfulWildAustraliankestrel-size_restricted.gif&imgrefurl=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fc%2Bprogramming&tbnid=qOA7II4qf-JjCM&vet=12ahUKEwjZ-c_iqqH0AhVBk6QKHT95D2YQMygAegUIARDBAQ..i&docid=uibDzUCEeOBAjM&w=1920&h=1080&q=c%20programming%20GIF&safe=active&ved=2ahUKEwjZ-c_iqqH0AhVBk6QKHT95D2YQMygAegUIARDBAQ" width="40" height="40" />
+![xd](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fc%2Bprogramming&psig=AOvVaw2kr-STyg2_-Gsx06uooSFx&ust=1637305054617000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMiI1uKqofQCFQAAAAAdAAAAABAa)
 
 <!---
 --->

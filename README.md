@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate? no bc i'll always be alone
 - 📫 How to reach me: baronz69420@gmail.com
 
-![xd](indihome.gif)
+![xd](b1.gif)
 
 <!---
 --->

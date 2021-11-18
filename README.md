@@ -1,3 +1,4 @@
+![xd](b1.gif)
 - 👋 Hi, I’m @bar0x (Bar0xx on instagram)
 - 👀 I’m interested in: Furrys
 - 🌱 I’m currently learning: how to cook tominis

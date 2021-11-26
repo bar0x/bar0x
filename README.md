@@ -6,9 +6,9 @@
 - 💞️ I’m looking to collaborate? no bc i'll always be alone
 - 📫 Vuoi scrivermi? fallo a baronz69420@gmail.com
 # social:
- seguimi su instagram [cliccando qui](https://www.instagram.com/bar0xx/)
+ [il mio profilo instagram!](https://www.instagram.com/bar0xx/)
  
- seguimi su steam [cliccando qui](https://steamcommunity.com/id/bar0x/)
+ [il mio profilo steam!](https://steamcommunity.com/id/bar0x/)
  
  ![xd](g3.gif)
 

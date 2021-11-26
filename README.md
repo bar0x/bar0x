@@ -1,9 +1,9 @@
 ![xd](g3.gif)
-- 👋 Hi, I’m @bar0x (Bar0xx on instagram)
-- 👀 I’m interested in: Furrys
-- 🌱 I’m currently learning: how to cook tominis
+
+- 👋 Ciao, sono Mattia Baroni in arte @bar0x!
+- 🌱 Sto imparando: C, HTML, assembler, Bash
 - 💞️ I’m looking to collaborate? no bc i'll always be alone
-- 📫 How to reach me: baronz69420@gmail.com
+- 📫 Vuoi scrivermi? fallo a baronz69420@gmail.com
 
 ![xd](g3.gif)
 

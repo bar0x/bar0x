@@ -4,6 +4,7 @@
 - 👋 Ciao, sono Mattia Baroni in arte @bar0x!
 - 🌱 Sto imparando: C, HTML, assembler, Batchfile
 - 📫 Vuoi scrivermi? fallo a baronz69420@gmail.com
+- ❌ no lean nel cap ❌
 # social:
  [il mio profilo instagram!](https://www.instagram.com/bar0xx/)
  

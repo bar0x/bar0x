@@ -2,10 +2,10 @@
  
  # Mi presento
 - 👋 Ciao, sono Mattia Baroni alias @bar0x.
-- 🌱 Sto imparando: C, HTML, assembler, Batchfile.
-- 📫 Vuoi scrivermi? fallo a baronz69420@gmail.com
+- 🌱 Sto imparando: C, HTML, assembly, Batchfile, python.
+- 📫 Vuoi scrivermi? fallo a mattia.baronis1@gmail.com
 - ❌ no lean nel cap ❌
-- ☣️ attualmente senza covid
+- ☣️ attualmente sotto esami
 
 # social
  [il mio profilo instagram](https://www.instagram.com/bar0xx/)

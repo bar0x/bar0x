@@ -14,7 +14,7 @@
   <a href="https://open.spotify.com/user/185263?si=525205e587fe4734">
      <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
    </a>&nbsp;&nbsp;
-  <a href="steamcommunity.com/id/bar0x/">
+  <a href="https://steamcommunity.com/id/bar0x/">
       <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
     </a>&nbsp;&nbsp;
 </p>

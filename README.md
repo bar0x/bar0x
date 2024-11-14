@@ -21,14 +21,14 @@
 </p>
 
 <p align='center'>
- <i>Studente di Ingegneria Informatica presso il Dipartimento di Ingegneria "Enzo Ferrari", <a href="https://www.unimore.it/en">UniMoRe</a> </i><br>
+ <i>Studente di Ingegneria Informatica presso il Dipartimento di Ing. "Enzo Ferrari", <a href="https://www.unimore.it/en">UniMoRe</a> </i><br>
 </p>
 
 <br/><br/><br/><br/>
-<h2 align='center'>🚣 About Me 🚣</h2>
+<h2 align='left'>🚣 About Me 🚣</h2>
 - ⚜️Full Time Scout⚜️ <i>(really, it takes a loot of time)</i> <br/>
 - 🌲Outer Life Enjoyer🌲
-
+<br/><br/>
 
   <!---
  - 🌱 Sto imparando: C, HTML, assembly, Batchfile, python.<br>

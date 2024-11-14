@@ -1,9 +1,7 @@
 ![xd](g3.gif)
  
-<h1 align='center'>Ciao, sono Mattia!👋</h1> 
-<p align='center'>
- <i>Studente di Ingegneria Informatica presso il Dipartimento di Ingegneria "Enzo Ferrari", <a href="https://www.unimore.it/en">UniMoRe</a> </i><br>
-</p>
+<h1 align='center'>Hello, i'm Mattia!👋</h1> 
+
 <p align='center'>
   <a href="https://www.instagram.com/bar0xx/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
@@ -22,17 +20,26 @@
     </a>&nbsp;&nbsp;
 </p>
 
+<p align='center'>
+ <i>Studente di Ingegneria Informatica presso il Dipartimento di Ingegneria "Enzo Ferrari", <a href="https://www.unimore.it/en">UniMoRe</a> </i><br>
+</p>
 
-  
+<br/><br/><br/><br/>
+<h2 align='center'>🚣 About Me 🚣</h2>
+- ⚜️Full Time Scout⚜️ <i>(really, it takes a loot of time)</i> <br/>
+- 🌲Outer Life Enjoyer🌲
+
+
+  <!---
  - 🌱 Sto imparando: C, HTML, assembly, Batchfile, python.<br>
 - 📫 Vuoi scrivermi? fallo a mattia.baronis1@gmail.com<br>
 - ❌ no lean nel cap ❌<br>
 - ☣️ attualmente sotto esami<br>
 </p>
-
+--->
 
 
  ![xd](g3.gif)
 
-<!---
---->
+
+

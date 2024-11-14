@@ -17,7 +17,7 @@
   <a href="https://steamcommunity.com/id/bar0x/">
       <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
     </a>&nbsp;&nbsp;
- <a href="mattia.baronis1@gmail.com">
+ <a href="https://mattia.baronis1@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>&nbsp;&nbsp;
 </p>

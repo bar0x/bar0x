@@ -1,7 +1,7 @@
 ![xd](g3.gif)
  
  <h1 align='center'>Ciao, sono Mattia!👋</h1> 
- ![img]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white})
+ ![img](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
  <p align='center'>
   Studente di triennale presso <a href="https://www.unimore.it/en">UniMoRe</a> <br>
 </p>

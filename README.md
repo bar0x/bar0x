@@ -28,6 +28,7 @@
 <h2 align='left'>🚣 About Me 🚣</h2>
 - ⚜️Full Time Scout⚜️ <i>(really, it takes a loot of time), since 2014</i> <br/>
 - 🌲Outer Life Enjoyer🌲
+- 🥋ex karate shotokan agonist athlete🥋
 <br/><br/>
 
   <!---

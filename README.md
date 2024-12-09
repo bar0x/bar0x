@@ -1,4 +1,6 @@
-![xd](g3.gif)
+<!-- ![xd](g3.gif) -->
+![xd](train_station.gif)
+
  
 <h1 align='center'>Hello, i'm Mattia!👋</h1> 
 
@@ -54,7 +56,5 @@ Studied at school: <br/>
 --->
 
 
- ![xd](g3.gif)
-
-
-
+<!-- ![xd](g3.gif) -->
+![xd](train_station.gif)

@@ -24,22 +24,26 @@
  <i>Studente di Ingegneria Informatica presso il Dipartimento di Ing. "Enzo Ferrari", <a href="https://www.unimore.it/en">UniMoRe</a> </i><br>
 </p>
 
-<br/><br/><br/><br/>
-<h2 align='left'>🐍 Intrested In 🐍</h2>
-Studied at school:
-- ⌨️C, x86 Assembly⌨️ <br/>
-- 🐘PHP🐘 + 💉SQL💉 <br/>
-- ♨️HTML, CSS, JS (and relative frameworks like Bootstrap)♨️ <br/>
-Currently studying:
-- 🐍Python🐍
-
+<!-- sezione about me-->
 <br/><br/>
-
 <h2 align='left'>🚣 About Me 🚣</h2>
 - ⚜️Full Time Scout⚜️ <i>(really, it takes a loot of time), since 2014</i> <br/>
 - 🌲Outer Life Enjoyer🌲<br/>
 - 🥋ex karate shotokan agonist athlete🥋 <br/>
 <br/><br/>
+
+
+<!-- sezione Interessi-->
+<br/>
+<h2 align='left'>💾 Intrested In 💾</h2>
+Studied at school: <br/>
+- ⌨️C, x86 Assembly⌨️ <br/>
+- 🐘PHP🐘 + 💉SQL💉 <br/>
+- ♨️HTML, CSS, JS (and relative frameworks like Bootstrap)♨️ <br/>
+<br/>Currently studying: <br/>
+- 🐍Python🐍<br/>
+- 💽Risc-V ASM💽
+<br/><br/><br/>
 
   <!---
  - 🌱 Sto imparando: C, HTML, assembly, Batchfile, python.<br>

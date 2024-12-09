@@ -25,10 +25,20 @@
 </p>
 
 <br/><br/><br/><br/>
+<h2 align='left'>🐍 Intrested In 🐍</h2>
+Studied at school:
+- ⌨️C, x86 Assembly⌨️ <br/>
+- 🐘PHP🐘 + 💉SQL💉 <br/>
+- ♨️HTML, CSS, JS (and relative frameworks like Bootstrap)♨️ <br/>
+Currently studying:
+- 🐍Python🐍
+
+<br/><br/>
+
 <h2 align='left'>🚣 About Me 🚣</h2>
 - ⚜️Full Time Scout⚜️ <i>(really, it takes a loot of time), since 2014</i> <br/>
-- 🌲Outer Life Enjoyer🌲
-- 🥋ex karate shotokan agonist athlete🥋
+- 🌲Outer Life Enjoyer🌲<br/>
+- 🥋ex karate shotokan agonist athlete🥋 <br/>
 <br/><br/>
 
   <!---

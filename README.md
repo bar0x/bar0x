@@ -46,6 +46,8 @@ Studied at school: <br/>
 <br/>Currently studying: <br/>
 - 🐍Python🐍<br/>
 - 💽Risc-V ASM💽
+- Bash
+- C
 <br/><br/><br/>
 
   <!---
